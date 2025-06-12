@@ -33,5 +33,8 @@ cd your-warehouse-repo
 # Install dependencies
 npm install
 
+# Initialize convex
+npx convex dev
+
 # Run locally
 npm run dev

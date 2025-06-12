@@ -1,6 +1,11 @@
 # Warehouse Management System
 
+![Dribbble Shot Desk - 31](https://github.com/user-attachments/assets/31ef8a25-2874-4895-b042-1a6fe6ca5670)
+
 A React & TypeScript warehouse system featuring product and invoice management powered by Convex backend.
+
+## 💻 See Online Demo
+- https://warehouse-react-seven.vercel.app/
 
 ## 🔧 Technologies Used  
 - React  
@@ -20,6 +25,10 @@ A React & TypeScript warehouse system featuring product and invoice management p
 - Add product page for managing inventory entries  
 - Invoice listing page with type filter, sorting, table view, and pagination  
 - Add invoice page for recording sales and transactions
+
+## ⚙️ Convex Back-End
+- Convex is the open source, reactive database where queries are TypeScript code running right in the database , read doc:
+  https://docs.convex.dev/home
 
 ## 🛠 Project Setup
 

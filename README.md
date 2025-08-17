@@ -42,7 +42,7 @@ cd your-warehouse-repo
 # Install dependencies
 npm install
 
-# Initialize convex
+# Initialize convex (first create a convex account and authenticate)
 npx convex dev
 
 # Run locally
